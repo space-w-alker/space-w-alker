@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @space-w-alker
 - 👀 I’m interested in Game Development 
-- 🌱 I’m currently learning Godot
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me abassabdullahi4@gmail.com
 
